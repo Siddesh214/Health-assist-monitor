@@ -31,4 +31,4 @@ Start the central dashboard server: python app.py
 
 In a separate terminal, start the simulated wearable device: python sensor_sim.py
 
-Open your browser and navigate to http://localhost:5000
+Open your browser and navigate to http://localhost:5000. 
